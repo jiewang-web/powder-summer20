@@ -30,7 +30,8 @@ account** and receive an API key to be used for data collection.
 
 The collection of the power and weather data will utalize both the
 [powerweather_tutorial.py](https://github.com/allisontodd/powder-summer20/blob/master/tutorials/collect-power-weather/powerweather_tutorial.py)
-and rxtx_tutorial.py Python scripts. Make sure that both of these are downloaded into
+and [rxtx_tutorial.py](https://github.com/allisontodd/powder-summer20/blob/master/tutorials/collect-power-weather/rxtx_tutorial.py)
+Python scripts. Make sure that both of these are downloaded into
 the directory you will to use for data collection.
 
 ## First Steps ##
