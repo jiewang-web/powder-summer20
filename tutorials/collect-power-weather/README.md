@@ -99,6 +99,7 @@ columns entirely depends on the length of time the experiment was run for.
  * **Fourth Row** : Percent Humidity
  * **Fifth Row** : Received Signal Strength Value
  
- The MatLab code plot_tutorial.m is included so that you may graph the data collection.
+ The MatLab code [plot_tutorial.m](https://github.com/allisontodd/powder-summer20/blob/master/tutorials/collect-power-weather/plot_tutorial.m)
+ is included so that you may graph the data collection.
  Be sure to change the file name on line 6 to match the destination file name used 
  previously. 
