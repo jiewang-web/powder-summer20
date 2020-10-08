@@ -1,4 +1,4 @@
-# Collecting Recieved Signal Strength between all combinations of Tranmitters and Receivers #
+# Collecting Recieved Signal Strength between all combinations of Transmitters and Receivers #
 
 The goals of this tutorial is to step through the process of collecting received signal
 strength measurements between all combinations of transmitter and receivers within the
@@ -108,4 +108,17 @@ pieces of information:
   **no edits need to be made**
   
   
+## Running It ##
+Now that all the necessary changes have been made, the script can be run and the received
+signal strength data can be collected!
 
+If everything was changed and inserted properly, the only thing that needs to be done now is 
+run multi_power_tutorial.py. With that, you can watch as you transmit and receive from every
+combination of transmitter and receiver. Due to the timing required for this, the entire 
+process will take up to 14 minutes, but can run completely autonomous. 
+
+## The Data ##
+Once multi_power_tutorial.py is complete, a table of values can be found at whatever
+destination file name you chose earlier. The csv file will be an 8-by-8 table of 
+recieved signal strength values. The row corresponds to the transmitter while the
+column corresponds to the reciever. 
