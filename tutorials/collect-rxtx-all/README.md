@@ -24,8 +24,8 @@ portions is possible, just difficult and annoying. t
 The **reservation should also include** the same number of either d430 or d740 compute nodes 
 (ideally this is 8). It can also be helpful to reserve the 3550 to 3560 frequency range. 
 
-The collection of received signal strength data will use multi_power_tutorial.py,
-multi_power_gather_tutorial.py, multi_combine_tutorial.py, and rx_tx_generic_tutorial.py Python
+The collection of received signal strength data will use [multi_power_tutorial.py](https://github.com/allisontodd/powder-summer20/blob/master/tutorials/collect-rxtx-all/multi_power_tutorial.py),
+[multi_power_gather_tutorial.py](https://github.com/allisontodd/powder-summer20/blob/master/tutorials/collect-rxtx-all/multi_power_gather_tutorial.py), [multi_combine_tutorial.py](https://github.com/allisontodd/powder-summer20/blob/master/tutorials/collect-rxtx-all/multi_combine_tutorial.py) , and [rx_tx_generic_tutorial.py](https://github.com/allisontodd/powder-summer20/blob/master/tutorials/collect-rxtx-all/rx_tx_generic_tutorial.py) Python
 scripts. All of these should be downloaded in the same folder as they will be used together.
 
 ## Instantiate the Experiment ##
